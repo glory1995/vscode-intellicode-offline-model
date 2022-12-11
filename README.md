@@ -1,0 +1,1 @@
+# vscode-intellicode-offline-model
